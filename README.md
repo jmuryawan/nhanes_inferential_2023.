@@ -27,3 +27,8 @@ Variables:
 - WHD020 (self-reported weight, cleaned) continuous 
 - PAD680 (sedentary behavior time, cleaned) continuous
 - The analysis test used is **correlational**
+
+Question 5: Is there a significant association between vitamin D deficiency and the prevalence of hepatitis B infection?
+- Vitamin D Lab Interpretation (LBDVD2LC) categorical
+- Hepatitis B Lab Antibodies (LBXHBS) categorical
+- The analysis test used is **chi-square**
